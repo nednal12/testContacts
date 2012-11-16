@@ -1,6 +1,6 @@
 //Brent Marohnic
 // AVF 1211
-// Wait for Cordova to load
+// Full Sail University
 //
 document.addEventListener("deviceready", onDeviceReady, false);
 
