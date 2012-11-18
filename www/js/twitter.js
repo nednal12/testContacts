@@ -2,6 +2,8 @@
 // AVF 1211
 // Full Sail University
 //
+//
+
 document.addEventListener("deviceready", onDeviceReady, false);
 
 function onDeviceReady (){
